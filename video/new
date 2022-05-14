@@ -1,0 +1,2 @@
+GST_DEBUG=3 gst-launch-1.0 v4l2src device=/dev/video0  ! videoconvert ! video/x-raw ,format=NV12 ,width=1280,height=480 ! v4l2h264enc   ! 'video/x-h264,level=(string)4'! rtph264pay mtu=1400 config-interval=1 ! udpsink host=127.0.0.1 port=5602 sync=false 
+

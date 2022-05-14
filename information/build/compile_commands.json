@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/pi/smart/information/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/pi/smart/information/./c_library_v2/common -g -o CMakeFiles/send.dir/main.cpp.o -c /home/pi/smart/information/main.cpp",
+  "file": "/home/pi/smart/information/main.cpp"
+},
+{
+  "directory": "/home/pi/smart/information/build/HC-SR04-Raspberry-Pi-C-",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/pi/smart/information/./c_library_v2/common -g -o CMakeFiles/SR04_DISTANCE_LIB.dir/distance.cpp.o -c /home/pi/smart/information/HC-SR04-Raspberry-Pi-C-/distance.cpp",
+  "file": "/home/pi/smart/information/HC-SR04-Raspberry-Pi-C-/distance.cpp"
+},
+{
+  "directory": "/home/pi/smart/information/build/HC-SR04-Raspberry-Pi-C-",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/pi/smart/information/./c_library_v2/common -g -o CMakeFiles/SR04_DISTANCE_LIB.dir/libSonar.cpp.o -c /home/pi/smart/information/HC-SR04-Raspberry-Pi-C-/libSonar.cpp",
+  "file": "/home/pi/smart/information/HC-SR04-Raspberry-Pi-C-/libSonar.cpp"
+},
+{
+  "directory": "/home/pi/smart/information/build/HC-SR04-Raspberry-Pi-C-",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/pi/smart/information/./c_library_v2/common -g -o CMakeFiles/SR04_DISTANCE_LIB.dir/libSonarSample.cpp.o -c /home/pi/smart/information/HC-SR04-Raspberry-Pi-C-/libSonarSample.cpp",
+  "file": "/home/pi/smart/information/HC-SR04-Raspberry-Pi-C-/libSonarSample.cpp"
+}
+]

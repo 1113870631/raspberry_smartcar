@@ -1,0 +1,2 @@
+/usr/bin/aarch64-linux-gnu-ar qc libSR04_DISTANCE_LIB.a CMakeFiles/SR04_DISTANCE_LIB.dir/distance.cpp.o CMakeFiles/SR04_DISTANCE_LIB.dir/libSonar.cpp.o CMakeFiles/SR04_DISTANCE_LIB.dir/libSonarSample.cpp.o
+/usr/bin/aarch64-linux-gnu-ranlib libSR04_DISTANCE_LIB.a

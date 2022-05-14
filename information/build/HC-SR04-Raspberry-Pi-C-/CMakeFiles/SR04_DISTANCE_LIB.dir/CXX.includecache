@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/smart/information/HC-SR04-Raspberry-Pi-C-/distance.cpp
+iostream
+-
+wiringPi.h
+-
+libSonar.h
+/home/pi/smart/information/HC-SR04-Raspberry-Pi-C-/libSonar.h
+
+/home/pi/smart/information/HC-SR04-Raspberry-Pi-C-/libSonar.cpp
+iostream
+-
+wiringPi.h
+-
+libSonar.h
+/home/pi/smart/information/HC-SR04-Raspberry-Pi-C-/libSonar.h
+
+/home/pi/smart/information/HC-SR04-Raspberry-Pi-C-/libSonar.h
+
+/home/pi/smart/information/HC-SR04-Raspberry-Pi-C-/libSonarSample.cpp
+iostream
+-
+wiringPi.h
+-
+libSonar.h
+/home/pi/smart/information/HC-SR04-Raspberry-Pi-C-/libSonar.h
+

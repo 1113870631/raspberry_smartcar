@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ -g -rdynamic CMakeFiles/send.dir/main.cpp.o -o send  -Wl,-rpath,/usr/local/lib HC-SR04-Raspberry-Pi-C-/libSR04_DISTANCE_LIB.a /usr/local/lib/libwiringPi.so 

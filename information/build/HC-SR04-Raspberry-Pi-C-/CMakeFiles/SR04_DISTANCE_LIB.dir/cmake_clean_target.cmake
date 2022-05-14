@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libSR04_DISTANCE_LIB.a"
+)
